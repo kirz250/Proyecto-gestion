@@ -1,7 +1,0 @@
-{
-    "placeholder": "Buscar...",
-    "perPage": "registros por página",
-    "noRows": "No se encontraron registros",
-    "noResults": "No hay resultados que coincidan con tu búsqueda",
-    "info": "Mostrando {start} a {end} de {rows} registros"
-}
